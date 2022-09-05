@@ -5,7 +5,7 @@ noseY=0;
 
 
 function preload(){
-clown_nose = loadImage('https://i.postimg.cc/3x3QzSGq/m.png')
+mustache = loadImage('https://i.postimg.cc/3x3QzSGq/m.png')
 }
 
 function setup() {
